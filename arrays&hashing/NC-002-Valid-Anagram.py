@@ -32,14 +32,26 @@ TIME LIMIT 30 min
 
 """
 
-class Solution(object):
-    def isAnagram(self, s, t):
-        for char1 in s:
-            for char2 in t:
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         new_string = ""
+#         for char in s:
+#             if char not in t:
+#                 return False
+#             else:
+#                 new_string += char
+
+
+
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         for char1 in s:
+#             for char2 in t:
                 
 
 
-
+test_string = "abacbdbe"
+print(test_string)
 
 
 
