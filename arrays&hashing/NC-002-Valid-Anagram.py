@@ -32,6 +32,33 @@ TIME LIMIT 30 min
 
 """
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # class Solution(object):
 #     def isAnagram(self, s, t):
 #         new_string = ""
@@ -50,8 +77,8 @@ TIME LIMIT 30 min
                 
 
 
-test_string = "abacbdbe"
-print(test_string)
+# test_string = "abacbdbe"
+# print(test_string)
 
 
 
@@ -83,8 +110,8 @@ print(test_string)
 #         return rev == t
 
 
-solution = Solution()
-print(solution.isAnagram("anagram", "nagaram"))
+# solution = Solution()
+# print(solution.isAnagram("anagram", "nagaram"))
 
 
 

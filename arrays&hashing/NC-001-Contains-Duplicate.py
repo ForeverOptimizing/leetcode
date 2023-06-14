@@ -22,19 +22,6 @@ Constraints:
 -109 <= nums[i] <= 109
 """
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 class Solution(object):
     def containsDuplicate(self, nums):
         hashset = set()
